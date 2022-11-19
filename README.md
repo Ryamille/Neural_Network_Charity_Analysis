@@ -13,6 +13,8 @@ The input data has 43 features and 25,724 samples. The first and second hidden l
 - The model could not get a satisfying perfomance with an accuracy under 75%
 - It was optimized by bucketing the "APPlication_TYPE, CLASSIFICATION" columns
 
+![](opt.png)
+
 ## Summary
 Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
 After optimizing the model the accuary went up only one percent and the loss went down two percent. That leaves the results with still being under the target accuaracy of 75%.
